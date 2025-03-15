@@ -4,7 +4,7 @@ import { Text, View } from 'react-native'
 const Container = () => {
   return (
   <view>
-    <Text>hello</Text>
+    <Text>hello react</Text>
   </view>
   )
 }
